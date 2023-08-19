@@ -1,0 +1,59 @@
+[
+    {
+      "id": 29,
+      "title": "The Silent Patient",
+      "price": 9,
+      "imageUrl": "https://i.imgur.com/WUvjLnj.jpg",
+      "author": "Alex Michaelides"
+    },
+    {
+      "id": 30,
+      "title": "The Midnight Library",
+      "price": 18,
+      "imageUrl": "https://i.imgur.com/jr4cCXd.jpg",
+      "author": "J K Rowling"
+    },
+    {
+      "id": 31,
+      "title": "The Vanishing Half",
+      "price": 9,
+      "imageUrl": "https://i.imgur.com/B3ByUP3.jpg",
+      "author": "Brit Bennett"
+    },
+    {
+      "id": 32,
+      "title": "The Hunger Games",
+      "price": 9,
+      "imageUrl": "https://i.imgur.com/HdcWfFe.jpg",
+      "author": "Suzanne Collins"
+    },
+    {
+      "id": 33,
+      "title": "Etidorhpa",
+      "price": 9,
+      "imageUrl": "https://i.imgur.com/TcIR6G4.jpg",
+      "author": "John Uri Lloyd"
+    },
+    {
+      "id": 34,
+      "title": "Legacy of Cain",
+      "price": 9,
+      "imageUrl": "https://i.imgur.com/Bgshc18.jpg",
+      "author": "Wilkie Collins"
+    },
+    {
+      "id": 35,
+      "title": "No Thoroughfare",
+      "price": 9,
+      "imageUrl": "https://i.imgur.com/1OdTKJT.jpg",
+      "author": "Charles Dickens, Wilkie Collins"
+    },
+    {
+      "id": 36,
+      "title": "Certain Evil",
+      "price": 9,
+      "imageUrl": "https://i.imgur.com/2Q4VkJC.jpg",
+      "author": "Oliver F Chase"
+    }
+  ]
+  

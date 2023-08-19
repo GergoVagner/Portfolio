@@ -1,0 +1,60 @@
+[
+    {
+      "id": 37,
+      "title": "Jesus Revolution",
+      "price": 6.99,
+      "imageUrl": "https://i.imgur.com/QVWJo72.jpg",
+      "author": "DVD"
+    },
+    {
+      "id": 38,
+      "title": "Spider-Man: Across The Spider-Verse",
+      "price": 6.99,
+      "imageUrl": "https://i.imgur.com/DtUJGJo.jpg",
+      "author": "DVD"
+    },
+    {
+      "id": 39,
+      "title": "Fast X",
+      "price": 6.99,
+      "imageUrl": "https://i.imgur.com/FUUgRi3.jpg",
+      "author": "DVD"
+    },
+    {
+      "id": 40,
+      "title": "The Super Mario Bros.",
+      "price": 6.99,
+      "imageUrl": "https://i.imgur.com/6PwGdjW.jpg",
+      "author": "DVD"
+    },
+    {
+      "id": 41,
+      "title": "1883: A Yellowstone Origin Story",
+      "price": 6.99,
+      "imageUrl": "https://i.imgur.com/LJjVOUS.jpg",
+      "author": "DVD"
+    },
+    {
+      "id": 42,
+      "title": "Avatar: The Way of Water",
+      "price": 6.99,
+      "imageUrl": "https://i.imgur.com/5HMzVmb.jpg",
+      "author": "DVD"
+    },
+    {
+      "id": 43,
+      "title": "John Wick: Chapter 4",
+      "price": 6.99,
+      "imageUrl": "https://i.imgur.com/9hQAwC4.jpg",
+      "author": "DVD"
+    },
+    {
+      "id": 44,
+      "title": "Barbie",
+      "price": 6.99,
+      "imageUrl": "https://i.imgur.com/4ePCUZo.jpg",
+      "author": "DVD"
+    }
+
+    
+  ]

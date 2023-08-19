@@ -1,0 +1,205 @@
+[
+  {
+    "id": 1,
+    "title": "Harry Potter and the Philosopher's Stone",
+    "price": 18,
+    "imageUrl": "https://i.imgur.com/NbobVbj.jpg",
+    "author": "J K Rowling"
+  },
+  {
+    "id": 2,
+    "title": "Harry Potter and the Chamber of Secrets",
+    "price": 18,
+    "imageUrl": "https://i.imgur.com/VizfLQI.jpg",
+    "author": "J K Rowling"
+  },
+  {
+    "id": 3,
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "price": 18,
+    "imageUrl": "https://i.imgur.com/kbkSUdU.jpg",
+    "author": "J K Rowling"
+  },
+  {
+    "id": 4,
+    "title": "Harry Potter and the Goblet of Fire",
+    "price": 18,
+    "imageUrl": "https://i.imgur.com/XPwyNyP.jpg",
+    "author": "J K Rowling"
+  },
+  {
+    "id": 5,
+    "title": "Royals of Villain Academy",
+    "price": 18,
+    "imageUrl": "https://i.imgur.com/wNGiabr.jpg",
+    "author": "Eva Chase"
+  },
+  {
+    "id": 6,
+    "title": "Song of Achilles",
+    "price": 18,
+    "imageUrl": "https://i.imgur.com/Dt4YzlY.jpg ",
+    "author": "Madeline Miller "
+  },
+  {
+    "id": 7,
+    "title": "Golden Fool",
+    "price": 18,
+    "imageUrl": "https://i.imgur.com/9Ad2I8U.jpg",
+    "author": "Robin Hobb "
+  },
+  {
+    "id": 8,
+    "title": "Fellowship of the Ring",
+    "price": 18,
+    "imageUrl": "https://i.imgur.com/tV7bewo.jpg",
+    "author": "J. R. R. Tolkien"
+  },
+  {
+    "id": 9,
+    "title": "Dark Fae",
+    "price": 18,
+    "imageUrl": "https://i.imgur.com/xW8Cxm5.jpg ",
+    "author": "Caroline Peckham, Susanne Valenti "
+  },
+  {
+    "id": 10,
+    "title": " Kingdom of Flesh and Fire",
+    "price": 18,
+    "imageUrl": "https://i.imgur.com/pHxUBA5.jpg",
+    "author": " Jennifer L Armentrout"
+  },
+  {
+    "id": 11,
+    "title": "Zodiac Academy",
+    "price": 18,
+    "imageUrl": "https://i.imgur.com/t1ztwQU.jpg",
+    "author": " Caroline Peckham, Susanne Valenti"
+  },
+  {
+    "id": 12,
+    "title": "Anastasia",
+    "price": 18,
+    "imageUrl": "https://i.imgur.com/LncDFT0.jpg",
+    "author": " Sophie Lark"
+  },
+  {
+    "id": 13,
+    "title": "Library of the Unwritten",
+    "price": 18,
+    "imageUrl": "https://i.imgur.com/Cnw81KD.jpg",
+    "author": "A. J. Hackwith "
+  },
+  {
+    "id": 14,
+    "title": "Dragon Haven",
+    "price": 18,
+    "imageUrl": "https://i.imgur.com/Cnw81KD.jpg",
+    "author": "Robin Hobb "
+  },
+  {
+    "id": 15,
+    "title": "Our Violent Ends",
+    "price": 18,
+    "imageUrl": "https://i.imgur.com/Gx9pf13.jpg",
+    "author": "Chloe Gong "
+  },
+  {
+    "id": 16,
+    "title": "Kiss of Deception",
+    "price": 18,
+    "imageUrl": "https://i.imgur.com/cjnKsmU.jpg",
+    "author": "Mary E. Pearson "
+  },
+  {
+    "id": 17,
+    "title": " Reaper Man",
+    "price": 18,
+    "imageUrl": "https://i.imgur.com/b8hOjve.jpg",
+    "author": "Terry Pratchett"
+  },
+  {
+    "id": 18,
+    "title": "Prince of Thorns",
+    "price": 18,
+    "imageUrl": "https://i.imgur.com/4dCJWvK.jpg",
+    "author": " Mark Lawrence"
+  },
+  {
+    "id": 19,
+    "title": "Fantastic Beasts: The Crimes of Grindelwald",
+    "price": 18,
+    "imageUrl": "https://i.imgur.com/naloNXD.jpg",
+    "author": "J. K. Rowling "
+  },
+  {
+    "id": 20,
+    "title": "Dance of Thieves ",
+    "price": 18,
+    "imageUrl": "https://i.imgur.com/EZlSyob.jpg",
+    "author": "Mary E. Pearson "
+  },
+
+  {
+    "id": 21,
+    "title": "Peter Darling",
+    "price": 18,
+    "imageUrl": "https://i.imgur.com/u4dB4S2.jpg",
+    "author": "Austin Chant"
+  },
+
+  {
+    "id": 22,
+    "title": "Harrow the Ninth",
+    "price": 18,
+    "imageUrl": "https://i.imgur.com/XW2wVEd.jpg",
+    "author": "Tamsyn Muir "
+  },
+
+  {
+    "id": 23,
+    "title": "Grace of Kings",
+    "price": 18,
+    "imageUrl": "https://i.imgur.com/9e4OyI5.jpg",
+    "author": "Ken Liu"
+  },
+
+  {
+    "id": 24,
+    "title": "Savage Bonds",
+    "price": 18,
+    "imageUrl": "https://i.imgur.com/LAdv5qX.jpg",
+    "author": "J Bree"
+  },
+
+  {
+    "id": 25,
+    "title": "Shadow in the Ember",
+    "price": 18,
+    "imageUrl": "https://i.imgur.com/cb38b9O.jpg",
+    "author": "Jennifer L Armentrout"
+  },
+  {
+    "id": 26,
+    "title": "Priory of the Orange Tree",
+    "price": 18,
+    "imageUrl": "https://i.imgur.com/z19WsnR.jpg",
+    "author": "Samantha Shannon"
+  },
+
+  {
+    "id": 27,
+    "title": "Star Wars: Light of the Jedi",
+    "price": 18,
+    "imageUrl": "https://i.imgur.com/opd94pX.jpg",
+    "author": "Charles Soule"
+  },
+
+  {
+    "id": 28,
+    "title": "Archangel's Legion",
+    "price": 18,
+    "imageUrl": "https://i.imgur.com/A96sbEC.jpg",
+    "author": "Nalini Singh"
+  }
+]

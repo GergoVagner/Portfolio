@@ -1,0 +1,48 @@
+.card-collection{
+    flex-wrap: wrap;
+    gap: 15px;
+    justify-content: space-evenly;
+}
+
+.card-container{
+    padding: 10px 15px 5px 15px;
+    overflow: hidden;
+    box-shadow: 0px 0px 15px -5px;
+    height: 100%;
+    display: grid;
+}
+
+.image-container{
+   display: flex;
+    height: 300px;
+    justify-content: center;
+}
+.image-container > img {
+        object-fit: contain;
+        height: 100%; 
+}
+
+.card-title{
+   text-align: center;
+   padding-bottom: 0px;
+}
+.card-price{
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+}
+.card-author{
+    text-align: center;
+}
+
+.add-to-cart-btn{
+    margin-bottom: 5px;
+    display: flex;
+    justify-content: center;
+    margin-top: auto;
+}
+.add-to-cart-btn-bg{
+    /*background-color: #776966;*/
+    background-color: #333333;
+    border: #333333;
+}

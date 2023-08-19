@@ -1,0 +1,45 @@
+.section-header{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.page-margins{
+    margin: 0;
+}
+
+@media only screen and (max-width: 1440px) {
+    .page-margins{
+        margin-bottom: 50px;
+    }
+  }
+.shoppin-cart-button{
+    margin-top: 5px;
+    width: 45px;
+    height: 45px;
+    position: relative;
+    color: white;
+    border: none;
+    @media only screen and (max-width: 320px) {
+        margin-bottom: 5px;
+      }
+}
+
+.item-counter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:white;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    transform: "translate(25%, 25%)";
+}
+
+.in-cart-quantity{
+    padding: 5px 5px;
+}
+
+.search-bar-wrap{
+    margin-bottom: 40px;
+}

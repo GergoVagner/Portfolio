@@ -1,0 +1,15 @@
+.cart-image{
+    height: 135px;
+    object-fit: contain;
+}
+
+.cart-texts{
+    color: #6c757d;
+    font-size: 13px;
+}
+
+.cart-total-price{
+    font-weight: bold;
+    font-size: larger;
+    margin-left: auto;
+}
